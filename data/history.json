@@ -248,5 +248,134 @@
     "status": "successo",
     "updated_at": "2026-06-03T21:22:55.269746+00:00",
     "delta": "Primo rilevamento"
+  },
+  "Segretariato Generale Difesa/DNA": {
+    "name": "Segretariato Generale Difesa/DNA",
+    "market": "Pubblico",
+    "complexity": "Alta",
+    "fatturato": "Il Segretariato Generale Difesa/DNA non ha un 'fatturato' in senso commerciale, in quanto ente pubblico non economico. Il bilancio ordinario del Ministero della Difesa per il 2024 ammonta a 29.184,2 milioni di euro (spese finali autorizzate dalla Legge di Bilancio 213/2023), rappresentando circa il 3,4% delle spese finali del bilancio dello Stato. Il cosiddetto 'bilancio integrato della Difesa' (comprensivo di risorse MIMIT, MEF-missioni e PNRR) è stimato a 32.331,8 milioni di euro per il 2024. Anno di riferimento: 2024.",
+    "spesa_it_stimata": "Stima tra 200 e 350 milioni di euro annui per l'intero Ministero della Difesa (aggregato IT/ICT ordinario + PNRR). In dettaglio: risorse PNRR assegnate alla sola Difesa per digitalizzazione (Sub-investimento 1.6.4): 42,5 milioni di euro totali, con profilo 2024-2026 di 10M€ (2024) + 2,5M€ (2025); risorse PNRR per Cybersecurity (Investimento 1.5): 22,68M€ (2024) + 10,69M€ (2025) + 6,37M€ (2026); risorse PNRR per migrazione al PSN-Polo Strategico Nazionale: 10M€ (2024) + 15,5M€ (2025) + 4M€ (2026). La spesa IT ordinaria (manutenzione sistemi, licenze, connettività, outsourcing ICT) non è disaggregata pubblicamente nei documenti di bilancio disponibili.",
+    "fonte_stima": "DPP 2024-2026 (Documento Programmatico Pluriennale della Difesa, pubblicato settembre 2024); Legge di Bilancio 213/2023 - Stato di Previsione Ministero della Difesa E.F. 2024; Pagina ufficiale difesa.it - PNRR TELEDIFE Cybersecurity e Digitalizzazione; ForumPA analisi PNRR M1C1; Analisi Difesa - articolo 'Il DPP 2024-2026 e la Legge di Bilancio 2025' (dicembre 2024). Metodologia: somma delle voci PNRR IT tracciabili + stima pro-quota della spesa funzionamento (capitoli non ICT-specifici del SGD/DNA non disaggregati pubblicamente).",
+    "servizi_it_acquistati": "1) Cybersecurity: protezione perimetrale ICT, piattaforme SIEM/SOC, Cybersecurity Awareness e Phishing Simulation, sistema CyCOP (Cyber Common Operational Picture) per la pianificazione e condotta nel dominio cyber, Centro di Valutazione della Difesa (CeVAL). 2) Infrastrutture IT: fibra ottica 'spenta' in Diritto d'Uso Irrevocabile (DUI), infrastruttura PKI (Public Key Infrastructure) e Card Management System (CMS) Unico della Difesa, migrazione al Polo Strategico Nazionale (PSN - cloud PA). 3) Digitalizzazione: digitalizzazione procedure HR (gestione personale, istanze, contenzioso), certificati di identità digitale (target 750.000 certificati CNS/Firma Digitale), sistema informativo GeNOS (gestione Nulla Osta di Segretezza), migrazione applicazioni in ottica open source tramite infrastruttura S.C.I.P.I.O. 4) Software gestionale: sviluppo software comprensivi di supporto specialistico, assistenza e manutenzione. 5) Formazione e addestramento cyber. 6) Comunicazioni satellitari (programma SICRAL 3A/3B, gestito tramite ASI come soggetto attuatore PNRR M1C2-S.4.1). Stazione appaltante IT di riferimento: TELEDIFE (Direzione Informatica, Telematica e Tecnologie Avanzate), alle dirette dipendenze del SGD/DNA.",
+    "piano_strategico_it": "Sì, esistono due piani formali nell'ambito PNRR attuati da TELEDIFE: (1) PNRR - Missione 1, Componente 1, Sub-Investimento 1.6.4 'Digitalizzazione del Ministero della Difesa' (soggetto attuatore: Min. Difesa; titolare: PCM-Dipartimento per la Trasformazione Digitale); (2) PNRR - Missione 1, Componente 1, Investimento 1.5 'Cybersecurity' (Ministero della Difesa come amministrazione attuatrice; soggetto attuatore: ACN). Entrambi i piani sono corredati da Piani Operativi formali, l'ultimo aggiornamento del Piano Operativo Cybersecurity è dell'edizione maggio 2024. È presente inoltre la 'Direttiva Generale per il Procurement Militare' (edizione 2023), emanata congiuntamente dal Capo di SMD e dal Segretario Generale della Difesa/DNA, che regola le acquisizioni IT/dual-use. Il DPP 2024-2026 include una sezione specifica sugli investimenti digitali e cyber nel quadro del bilancio integrato.",
+    "trend_futuro": "1) Crescita strutturale del bilancio Difesa: la spesa in conto capitale è passata dall'11,4% del 2016 al 27,3% nel 2024, con proiezione stabile sopra il 27% per il triennio 2024-2026. 2) Obiettivo NATO 2% PIL: l'Italia punta a raggiungerlo entro il 2028, con incrementi progressivi annui del bilancio Difesa (crescita 6° anno consecutivo nel 2023). 3) Cybersecurity: investimenti PNRR dedicati (39,74M€ nel triennio 2024-2026 solo quota Difesa) con focus su CyCOP, Centro di Valutazione (CeVAL), potenziamento SCADA e integrazione C2-cyber. 4) Cloud/PSN: migrazione progressiva delle infrastrutture IT della Difesa verso il Polo Strategico Nazionale (29,5M€ PNRR + quota Carabinieri) entro 2026. 5) Open source e SCIPIO: trasformazione architetturale verso infrastruttura open source per applicazioni non mission critical. 6) PKI e identità digitale: potenziamento infrastruttura PKI con sito disaster recovery, incremento certificati digitali. 7) Comunicazioni satellitari dual-use: programma SICRAL 3A/3B (150M€ PNRR+PNC nel triennio 2024-2026). 8) Riserva di programmazione: il DPP 2024-2026 evidenzia un fabbisogno non coperto di 97,5 miliardi di euro per programmi prioritari su sei esercizi finanziari, indicando un potenziale di gare future molto elevato.",
+    "note_ntt_data": "OPPORTUNITÀ: (1) TELEDIFE come interlocutore primario - NTT DATA deve presidiare TELEDIFE (Direzione Informatica, Telematica e Tecnologie Avanzate), che è la stazione appaltante IT del SGD/DNA e gestisce la totalità degli appalti ICT. L'ingresso può avvenire su gare PNRR in corso o in pipeline per cybersecurity, digitalizzazione e PSN. (2) Cybersecurity: il focus strategico su CyCOP, CeVAL e protezione perimetrale è un'area core di NTT DATA (servizi SOC, threat intelligence, system integration); posizionamento possibile anche tramite ATI/RTI con player specializzati certificati ACN/CVCN. (3) Cloud e migrazione PSN: NTT DATA ha competenze certificate su cloud PA e potrebbe candidarsi come system integrator per la migrazione delle applicazioni Difesa verso PSN e architetture open source (progetto SCIPIO). (4) PKI e identità digitale: competenze NTT DATA in gestione identità e certificati digitali sono direttamente spendibili sul programma CMS Unico della Difesa. (5) Accordi Quadro pluriennali: il modello contrattuale di TELEDIFE prevede Accordi Quadro (es. AQ344 per digitalizzazione) - inserirsi come aggiudicatario di un AQ garantisce visibilità su successive adesioni per anni. PUNTI DI INGRESSO: ingresso diretto tramite bandi TELEDIFE su SDAPA (piattaforma appalti Difesa); accesso a Convenzioni Consip (Multibrand 6 - Lotto 11 già usato da TELEDIFE); partenariato con player già aggiudicatari di AQ Difesa esistenti. RISCHI: (1) Alta complessità procurement - il settore Difesa utilizza normativa speciale (D.Lgs. 208/2011) con requisiti di sicurezza, classificazione e nulla osta che richiedono abilitazioni specifiche; (2) Opacità dati - molti contratti IT Difesa non sono pienamente tracciabili in ANAC per ragioni di riservatezza/sicurezza nazionale, rendendo difficile il benchmark competitivo; (3) Concentrazione su player storici - l'ecosistema fornitori Difesa IT è storicamente dominato da grandi prime contractor nazionali (Leonardo, Telespazio, Thales Alenia Space, Engineering, Almaviva) con relazioni consolidate; (4) Tempi lunghi - i cicli di gara e aggiudicazione in ambito Difesa sono mediamente più lunghi rispetto ad altre PA; (5) Vincoli PNRR - le scadenze PNRR (milestone entro 2026) comprimono i tempi di gara ma aumentano la pressione esecutiva sui fornitori.",
+    "gare": [
+      {
+        "cig": "ZE03B350A6",
+        "oggetto": "Acquisizione di servizi di supporto, studio e progettazione di piattaforma digitale per la protezione perimetrale e misure di sicurezza ICT della Difesa e FF.AA. (PNRR WP3-WP4)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2023-2024"
+      },
+      {
+        "cig": "Z0C3ABEC12",
+        "oggetto": "Acquisizione sviluppo software gestionale comprensivo di supporto specialistico (avvio operativo, assistenza, manutenzione e formazione) - Target WP13 Centro di Valutazione della Difesa",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2023"
+      },
+      {
+        "cig": "Z2E3BFA0EC",
+        "oggetto": "Acquisizione soluzione di Cybersecurity Awareness e Phishing Simulation per utenti della Difesa - Target WP7 Formazione e addestramento Cyber (PNRR)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2024-2025"
+      },
+      {
+        "cig": "B16C081A01",
+        "oggetto": "Acquisizione moduli funzionali integrativi alla piattaforma CyCOP - Target WP6 Capacità di pianificazione e condotta nel dominio cyber (PNRR)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2023-2025"
+      },
+      {
+        "cig": "B40CFDEC60",
+        "oggetto": "Acquisizione fibra ottica spenta in Diritto d'Uso Irrevocabile (DUI) - Target WP13 Realizzazione Centro di Valutazione della Difesa",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2024-2025"
+      },
+      {
+        "cig": "B57DC8293A",
+        "oggetto": "Acquisizione materiali ulteriori per allestimento Centro di Valutazione della Difesa - Target WP13 (PNRR)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2024"
+      },
+      {
+        "cig": "B137922E3D",
+        "oggetto": "Digitalizzazione processo gestione Nulla Osta di Segretezza (NOS) - Acquisizione Sistema GeNOS - Target M1C1-143 Migrazione applicazioni non critiche open source SCIPIO T2 (PNRR)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2023"
+      },
+      {
+        "cig": "B13789E153",
+        "oggetto": "Sviluppo progettualità migrazione applicazioni non mission critical in SCIPIO - Target M1C1-143 (PNRR) - Adesione AQ344",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2024"
+      },
+      {
+        "cig": "9343523718",
+        "oggetto": "Accordo Quadro per Digitalizzazione del Ministero della Difesa e sviluppo, ammodernamento, adeguamento e mantenimento in esercizio dei sistemi di comunicazione on-line del Ministero della Difesa e delle Forze Armate",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2024"
+      },
+      {
+        "cig": "B6E17E685D",
+        "oggetto": "Consolidamento Target raggiunti e realizzazione nuove funzionalità evolutive dell'Infrastruttura PKI e del Card Management System (CMS) Unico della Difesa - gara SDAPA (PNRR)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2025"
+      },
+      {
+        "cig": "Z1336B2B36",
+        "oggetto": "Target M1C1-136 Digitalizzazione dei certificati - Emissione certificati di identità digitale a favore di altre PP.AA. (PNRR Sub-investimento 1.6.4)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2023-2024"
+      }
+    ],
+    "n_gare": 11,
+    "status": "successo",
+    "updated_at": "2026-06-03T21:38:00.563232+00:00",
+    "delta": "Primo rilevamento"
+  },
+  "Leonardo": {
+    "name": "Leonardo",
+    "market": "Privato",
+    "complexity": "Alta",
+    "fatturato": "€ 17,76 miliardi (Gruppo consolidato, FY 2024; +16,2% vs 2023). Nota: il dato della sola capogruppo Leonardo S.p.A. da bilancio camerale è circa € 10,96 miliardi; il dato di Gruppo include tutte le divisioni e la consolidazione di Telespazio dal 2024.",
+    "spesa_it_stimata": "Stima compresa tra € 700 milioni e € 900 milioni annui, derivante dall'applicazione di un benchmark settoriale Aerospace & Defence (4-5% dei ricavi di Gruppo destinati a spesa IT interna ed esterna). Il Piano Industriale 2024-2028 prevede risparmi lordi cumulati di € 1,8 miliardi in 5 anni (€ 150 mln già nel 2024, fino a € 590 mln/anno nel 2028) attraverso digitalizzazione e ottimizzazione dei processi, suggerendo investimenti IT sostenuti. La spesa in R&S dichiarata è pari a circa € 3 miliardi.",
+    "fonte_stima": "Stima analitica NTT DATA basata su: (1) ricavi consolidati FY2024 € 17,76 mld (fonte: bilancio integrato Leonardo 2024 e comunicato stampa ufficiale del CdA); (2) benchmark settoriale A&D IT spend ratio 4-5% (Gartner / IDC Defence sector); (3) target di risparmio da digitalizzazione indicati nel Piano Industriale 2024-2028 (comunicato stampa Leonardo 12/03/2024) e nell'aggiornamento del Piano 2025-2029 (11/03/2025). Dato puntuale di spesa IT non pubblicato.",
+    "servizi_it_acquistati": "1. Cybersecurity e Cyber Resilience (divisione Cyber & Security Solutions separata nel reporting 2024, con ricavi di circa € 648 mln nel 2024 e CAGR previsto al +13% nel Piano). 2. High Performance Computing (HPC) e Cloud: lancio di un proprio High Performance Cloud Computing Center per Digital Twin, AI e simulazioni ingegneristiche. 3. Intelligenza Artificiale e Data Analytics: nuovo Leonardo Lab per AI applicata a prodotti e processi. 4. System Integration e piattaforme multi-dominio (Digital Continuum). 5. ERP, PLM e digitalizzazione delle operations (advanced product lifecycle management). 6. Connettività a banda ultra-larga e comunicazioni satellitari sicure (Telespazio, SICRAL). 7. Cloud ibrido/privato (partecipazione come socio fondatore del Polo Strategico Nazionale insieme a TIM, CDP Equity e Sogei per cloud PA; internamente gestisce infrastrutture IT critiche classificate). 8. Software per simulazione, manutenzione predittiva e Digital Twin.",
+    "piano_strategico_it": "Piano Industriale 2024-2028 (approvato CdA 12/03/2024) e suo aggiornamento 2025-2029 (approvato CdA 11/03/2025). Pilastri digitali: (a) 'Massive Digitalization' come driver trasversale a tutte le divisioni; (b) Digital Continuum per interoperabilità multi-dominio (Land, Air, Maritime, Space) abilitato da Big Data, HPC, Cloud, AI, Digital Twin, cybersecurity e connessioni broadband; (c) costituzione di una Divisione Cyber autonoma con obiettivo di diventare player chiave europeo (ordini attesi +16% CAGR, ricavi +13%, EBITA +33% nel periodo); (d) creazione della nuova Divisione Spazio; (e) lancio del 'Leonardo Hypercomputing Continuum' come nuova Line of Business (piano 2025-2029); (f) risparmio lordo cumulato di € 1,8 miliardi grazie a efficientamento digitale di processi produttivi e amministrativi, di cui € 191 mln già conseguiti nel 2024.",
+    "trend_futuro": "1. Forte crescita della divisione Cyber & Security Solutions: mercato previsionale 2024-2033 valutato a € 1.920 miliardi (civile+difesa) con CAGR +11,7%; Leonardo punta a diventare player chiave europeo attraverso crescita organica e acquisizioni (es. accordo con Arbit Cyber Defence Systems dic-2024; acquisizione 24,55% SSH Communications Security Corporation lug-2025). 2. Espansione dell'HPC e AI: il 'Leonardo Hypercomputing Continuum' è identificato come nuova LoB nel piano 2025-2029. 3. Partecipazione al programma GCAP (Global Combat Air Programme) con UK e Giappone, con forte componente di system integration digitale. 4. JV con Baykar (droni) con contributo cumulativo ai ricavi di € 600 mln nel quinquennio 2025-2029. 5. Portafoglio ordini a € 44,2 mld (2024), previsto in crescita a € 56,8 mld a fine piano. 6. Ricavi di Gruppo attesi a ~ € 18,6 miliardi nel 2025 (+4,7% vs 2024). 7. Incremento della spesa europea per la difesa oltre il 2% del PIL come tailwind strutturale. 8. Digitalizzazione interna di produzione, engineering e amministrazione con uso massiccio di AI generativa e Digital Twin su tutte le piattaforme.",
+    "note_ntt_data": "OPPORTUNITA': (1) La divisione Cyber & Security Solutions è in forte crescita ma si basa su competenze interne: NTT DATA può entrare come partner di delivery e system integrator su progetti cyber complessi, in particolare nelle aree di Security Operations Center (SOC), Zero Trust e threat intelligence. (2) Il programma di efficientamento IT da € 1,8 mld cumulati apre spazi per outsourcing parziale di managed services (infrastruttura, applicazioni legacy, testing). (3) La digitalizzazione delle operations (PLM, MES, ERP) richiede competenze di system integration che NTT DATA possiede. (4) Il lancio del 'Leonardo Hypercomputing Continuum' e del Leonardo AI Lab crea domanda di competenze in AI/ML, MLOps e cloud architecture. (5) Programmi internazionali (GCAP, Eurodrone, MBDA) richiedono interoperabilità IT cross-border: NTT DATA con footprint globale è ben posizionata. PUNTI DI INGRESSO: Approccio preferenziale tramite partnership tecnologica (co-innovation) piuttosto che gara diretta, dato il modello di acquisto prevalentemente diretto/negoziale per forniture strategiche. Interlocutori chiave: CTO/CDO di Gruppo, Divisione Cyber & Security Solutions, Divisione Spazio (Telespazio), funzione Procurement strategico. RISCHI E COMPLESSITA': (1) Alta complessità di procurement: Leonardo è un player privato con forte orientamento al make interno su tecnologie core; il procurement IT strategico è gestito centralmente con procedure riservate e classificate, non soggette a ANAC (mercato privato). (2) Conflitto di interesse potenziale: Leonardo è competitor diretto di NTT DATA nel mercato Cyber & Security (es. offre servizi SOC a clienti istituzionali terzi). (3) Forte presidio di incumbent: accordi pluriennali con grandi player IT (IBM, Accenture, Leonardo DRS per la componente US). (4) Sensibilità alla sovranità tecnologica: preferenza dichiarata per soluzioni 'sovereign' e partner italiani/europei; NTT DATA deve valorizzare la propria presenza locale e la JV con Axiante/Engineering. (5) I dati di gara ANAC non sono applicabili al mercato privato Leonardo: le procedure di acquisto IT interne non transitano su banche dati pubbliche.",
+    "gare": [],
+    "n_gare": 0,
+    "status": "successo",
+    "updated_at": "2026-06-03T21:38:00.563232+00:00",
+    "delta": "Primo rilevamento"
+  },
+  "Fincantieri": {
+    "name": "Fincantieri",
+    "market": "Privato",
+    "complexity": "Alta",
+    "fatturato": "€ 8.128 miliardi (Gruppo consolidato, FY 2024, +6,2% vs 2023). Fatturato della sola capogruppo Fincantieri S.p.A.: € 3,79 miliardi (bilancio depositato CCIAA, FY 2024). Fonte: comunicato stampa ufficiale CDA Fincantieri del 24 marzo 2025 e bilancio CCIAA Trieste.",
+    "spesa_it_stimata": "Stima: € 160-250 milioni/anno a livello di Gruppo. Non esiste una disclosure pubblica separata della spesa IT. La stima è calcolata applicando un benchmark di settore del 2,0-3,1% dei ricavi consolidati (tipico per aziende manifatturiero-industriali ad alta intensità tecnologica e difesa), su base ricavi 2024 pari a € 8,128 miliardi. La componente IT/digitale è in forte crescita per effetto del Piano Industriale, delle iniziative NexTech e della JV Fincantieri Ingenium con Accenture.",
+    "fonte_stima": "Stima propria NTT DATA basata su: (1) benchmark Gartner/IDC per settore manifatturiero-difesa (IT spend / revenue ratio: 2,0%-3,1%); (2) ricavi consolidati FY2024 € 8,128 miliardi (fonte: comunicato CDA Fincantieri marzo 2025); (3) indicazioni qualitative dal Piano Industriale 2026-2030 e dal prospetto JV Fincantieri Ingenium (aprile 2025). Nessun dato di spesa IT è stato pubblicato esplicitamente dal Gruppo.",
+    "servizi_it_acquistati": "Cybersecurity (inclusa cyber resilienza navale tramite la controllata e-phors, con contratto strategico con la Marina Militare nel 2025 per protezione SMS di bordo); System Integration navale e difesa (tramite Fincantieri NexTech: automazione, elettronica di bordo, sistemi C4I, SATCOM, simulazione); Piattaforme digitali e IoT navale (progetto Navis Sapiens, ecosistema digitale per navi di nuova generazione, incluse funzionalità AI e marketplace); Cloud e dati (infrastrutture cloud abilitanti per Navis Sapiens e il Fincantieri Digital Ecosystem); Digital Twin e progettazione 4D (cantieri digitali, pianificazione 4D, cobot, robot umanoidi); Intelligenza Artificiale applicata alla gestione del ciclo di vita della nave; Logistica Integrata e supporto prodotto (ASD S-Series); Connettività mare-terra (interoperabilità SATCOM, ship-to-shore); Compliance NIS2 e gestione Information Security (ISO/IEC 27001:2022, audit annuali infrastruttura IT). Fonte: siti ufficiali Fincantieri, Fincantieri NexTech, comunicato Fincantieri Ingenium aprile 2025.",
+    "piano_strategico_it": "Fincantieri dispone di un Piano Industriale 2026-2030 (approvato dal CDA il 16 dicembre 2025, aggiornamento del precedente 2023-2027) che pone la digitalizzazione e la transizione energetica come pilastri strategici. I principali assi digitali sono: (1) Fincantieri NexTech – braccio tecnologico e digitale del Gruppo, attivo in cybersecurity, system integration, IT navale e difesa; (2) Fincantieri Ingenium – joint venture 70/30 con Accenture (costituita formalmente aprile 2025), nata dal Protocollo d'Intesa del luglio 2024, focalizzata su piattaforme digitali AI, IoT, cybersecurity e marketplace per navi e infrastrutture portuali nei settori crociere, difesa e porti; (3) Progetto Navis Sapiens – ecosistema digitale per navi di nuova generazione (prima nave in servizio entro fine 2025); (4) Operations Excellence Program – automazione, realtà aumentata, AI, robot collaborativi nei cantieri; (5) ISDM (Integrated Ship Digital Management) – architettura full digital già in implementazione sulla nave Four Seasons I; (6) Progetto R&D EDINAF (European Digital Naval Foundation) – architettura digitale di riferimento per navi da guerra, finanziato UE. Il piano prevede raddoppio capacità produttiva difesa entro 2030 e ricavi a ~€12,5 miliardi. Fonte: comunicati Fincantieri, Accenture newsroom, sito innovation.fincantieri.com.",
+    "trend_futuro": "1. Forte crescita del segmento Difesa: navi militari +39% nei primi 9 mesi 2025; Piano 2026-2030 prevede raddoppio capacità produttiva difesa in Italia, con nuovi contratti dal 2026. Budget difesa globale atteso a $2,93 trilioni nel 2030 (+18,6% vs 2025). 2. Espansione Underwater/subacqueo: business cresciuto +84,8% nel 2025 post-integrazione WASS; sviluppo sistemi sorveglianza cavi sottomarini. 3. Accelerazione digitale strutturale: il Gruppo punta a generare ricavi ricorrenti da servizi digitali (modello Opex), con Navis Sapiens come piattaforma commerciale aperta a terze parti. 4. Crescita inorganica: scouting di acquisizioni in ambito digitale tramite NexTech; open innovation e corporate venturing con startup STEM. 5. Investimenti infrastruttura IT: circa €1,9 miliardi autofinanziati nel piano per capacity boost, manutenzione e ammodernamento cantieri digitali (progettazione 3D/4D, data-driven factory). 6. Compliance normativa: percorso strutturato di adeguamento NIS2 (D.lgs. 138/2024) con ridefinizione del modello di governance cyber. 7. Guidance 2025: ricavi ~€9 miliardi, EBITDA margin >7%. Ricavi 2030 attesi ~€12,5 miliardi (+40% vs 2025). Fonte: Piano Industriale 2026-2030, risultati H1 2025, comunicato Fincantieri Ingenium.",
+    "note_ntt_data": "OPPORTUNITÀ: (1) Presenza di Accenture come partner strategico esclusivo nella JV Fincantieri Ingenium rappresenta una barriera competitiva significativa per i top-tier player IT sul perimetro diretto della trasformazione digitale navale; tuttavia lascia aperti spazi su aree non coperte dalla JV (ERP, HR IT, enterprise IT, supply chain digitale, cloud infrastrutturale). (2) La forte crescita del segmento Difesa e il programma di raddoppio della capacità produttiva generano domanda di servizi IT per programmi di difesa navale (C4I, gestione commesse complesse, PLM/MES, digital thread). (3) Compliance NIS2: il percorso strutturato di adeguamento apre opportunità per servizi di advisory, assessment e managed security services non coperti dalla JV con Accenture. (4) Il programma NEREUS (EDA/UE) e EDINAF aprono a potenziali collaborazioni su architetture digitali navali in ambito europeo di difesa, dove NTT DATA ha capacità di system integration. (5) Supply chain e filiera: il programma 'Evoluzione Indotto' e la rete di fornitori (90.000 posti di lavoro indotto) rappresentano un bacino di opportunità per soluzioni di supply chain management e digital procurement. PUNTI DI INGRESSO: approccio tramite divisione Difesa (programmi navali militari), canale Procurement/IT (enterprise IT), eventuale co-offerta con player specializzati in cybersecurity navale. RISCHI: (1) ALTA complessità procurement: Fincantieri è player privato quotato ma a controllo pubblico (CDP tramite Fincantieri S.p.A.); i processi di acquisto IT sono centralizzati e con forti barriere all'ingresso per incumbent (Accenture già JV partner). (2) Strategia 'make' prevalente: il Gruppo tende a sviluppare internamente competenze digitali tramite NexTech, riducendo il perimetro acquistabile. (3) Sensibilità difesa: i contratti IT legati a programmi navali militari richiedono abilitazioni di sicurezza, certificazioni specifiche e possono ricadere sotto D.lgs. 208/2011. (4) Lungo ciclo di vendita e alta personalizzazione richiesta. (5) Possibile conflitto di interessi con Accenture in caso di proposte sovrapposte alla JV Fincantieri Ingenium.",
+    "gare": [],
+    "n_gare": 0,
+    "status": "successo",
+    "updated_at": "2026-06-03T21:38:00.563232+00:00",
+    "delta": "Primo rilevamento"
   }
 }
