@@ -1,0 +1,252 @@
+{
+  "Ministero della Difesa": {
+    "name": "Ministero della Difesa",
+    "market": "Pubblico",
+    "complexity": "Molto alta",
+    "fatturato": "Bilancio del Ministero della Difesa 2025 (anno più recente disponibile): 31.295,4 milioni di euro (spese finali in termini di competenza, Legge di Bilancio 2025). Il Bilancio Integrato in chiave NATO 2025 (includendo MIMIT e MEF) è stimato tra 35,5 miliardi (definizione italiana) e 45,3 miliardi (definizione NATO allargata). Per il 2024 il bilancio ordinario era pari a 29.184,2 milioni di euro. Fonte: Legge di Bilancio 2025, DPP 2025-2027, Analisi Difesa, Osservatorio CPI Unicatt.",
+    "spesa_it_stimata": "Stima spesa IT annua: 500-700 milioni di euro. La stima è basata su: (1) Investimento PNRR M1C1-S.1.6.4 'Digitalizzazione del Ministero della Difesa' e M1C1-Inv.1.5 'Cybersecurity' (TELEDIFE/ACN) con stanziamenti pluriennali 2021-2026; (2) gare IT/cybersecurity/digitalizzazione erogate da TELEDIFE nel periodo 2022-2025; (3) benchmark PA italiana spesa IT/bilancio totale ~1,5-2%; (4) il settore Esercizio del bilancio 2025 include infrastrutture tecnologiche e logistiche. Non è disponibile un capitolo di spesa IT dedicato e disaggregato nel bilancio pubblico.",
+    "fonte_stima": "Metodologia di stima: benchmark settore PA italiana (spesa IT media ~1,5-2% del bilancio complessivo applicata al bilancio 2025 di 31,3 Mld€); gare TELEDIFE pubblicate sul sito difesa.it (cybersecurity, digitalizzazione, cloud, anti-malware); stanziamenti PNRR M1C1-S.1.6.4 e M1C1-Inv.1.5; DPP 2025-2027; Bilancio Integrato Difesa 2025. Fonte primaria: difesa.it, analisidifesa.it, RGS-MEF BDAP.",
+    "servizi_it_acquistati": "1. Cybersecurity: sviluppo Cyber Range (WP7), protezione perimetrale e misure di sicurezza ICT (WP3/WP4), piattaforma CyCOP per pianificazione e condotta dominio cyber (WP6), Centro di Valutazione della Difesa (WP13), sicurezza sistemi satellitari (WP9), soluzione Cybersecurity Awareness e Phishing Simulation (acquisita tramite Convenzione CONSIP ID2296). 2. Cloud e infrastrutture: migrazione infrastruttura utenti e FF.AA. da FUMD-NG a MFMD-NG (Accordo Quadro CONSIP, aggiudicato a Fastweb), acquisizione fibra ottica in DUI, private cloud della Difesa. 3. Software e digitalizzazione: reingegnerizzazione software gestionali in open source (progetto SCIPIO), digitalizzazione procedure gestione personale (reclutamento, pensionamento, salute), sistema GeNOS per gestione Nulla Osta di Segretezza, portale web istituzionale e intranet. 4. Identità digitale e PKI: infrastruttura PKI della Difesa, certificati digitali CNS/Firma Digitale/Cifratura (750.000 certificati target 2024), sito di disaster recovery PKI. 5. Anti-malware: potenziamento architettura di protezione anti-malware reti e sistemi IT classificati e non classificati interforze (gara TELEDIFE 2024). 6. System integration e supporto specialistico: supporto sistemistico, assistenza e manutenzione su piattaforme difesa, accordi quadro CONSIP per servizi IT gestiti.",
+    "piano_strategico_it": "Esistono i seguenti strumenti pianificatori: (1) Investimento PNRR M1C1-S.1.6.4 'Digitalizzazione del Ministero della Difesa' (CUP D81B20001980006) – digitalizzazione procedure personale, certificati digitali PKI, reingegnerizzazione software open source (progetto SCIPIO), modernizzazione portale web/intranet, consolidamento private cloud; target da T1 (Q4 2023) a T2 (Q4 2024) già completati o in corso. (2) Investimento PNRR M1C1-Inv.1.5 'Cybersecurity' – piano pluriennale TELEDIFE/ACN su 13+ work package: Cyber Range, protezione perimetrale, CyCOP, Centro di Valutazione della Difesa, sicurezza satellitare, Business Continuity. (3) Documento Programmatico Pluriennale (DPP) 2025-2027 – include ammodernamento capacità cyber e spaziale, Military Mobility, programmi ad alta valenza tecnologica co-finanziati MIMIT. (4) Architettura nazionale di sicurezza cibernetica nel quadro SISR, con ruolo cruciale del Ministero della Difesa e raccordo con ACN e Perimetro di Sicurezza Nazionale Cibernetica (PSNC).",
+    "trend_futuro": "1. Forte crescita della spesa: bilancio difesa da 29,2 Mld€ (2024) a 31,3 Mld€ (2025) con obiettivo 2% PIL NATO entro 2028, e nuova soglia del 3% attesa dal Summit NATO giugno 2026; ciò implica un aumento strutturale pluriennale degli investimenti IT e tecnologici. 2. Investimenti Ammodernamento e Rinnovamento: voce 'Ammodernamento e Rinnovamento' passa da 7.426,3 Mln€ (2024) a 9.111,1 Mln€ (2025), con quota crescente destinata a capacità digitali, spaziali e cyber. 3. Dominio cyber e spaziale: inclusione di cyber e spazio nel calcolo NATO del 2%, con ulteriori investimenti nella Cyber Range, CyCOP, Centro di Valutazione, sistemi anti-drone e C2. 4. Consolidamento cloud della Difesa: progressiva migrazione verso ambienti cloud qualificati ACN, in coerenza con il PSNC e le nuove norme di procurement digitale. 5. AI e automazione: integrazione di soluzioni AI nei processi operativi e amministrativi, in linea con le iniziative NATO AI e il NATO Innovation Fund. 6. Military Mobility e interoperabilità NATO/UE: investimenti in infrastrutture di comunicazione sicure e interoperabili tra le FF.AA. nazionali e alleate. 7. Nuova Direzione Nazionale degli Armamenti: creata nel 2024, centralizza il procurement militare e tecnologico, aumentando la complessità ma anche la prevedibilità delle gare future.",
+    "note_ntt_data": "OPPORTUNITÀ: (1) Il PNRR Digitalizzazione Difesa e il PNRR Cybersecurity (TELEDIFE/ACN) sono cantieri aperti con gare ancora da emettere fino al 2026, in particolare su domini cloud, Cyber Range, CyCOP, Business Continuity e Centro di Valutazione della Difesa – segmenti core di NTT DATA. (2) Il progetto SCIPIO (migrazione open source dei gestionali) e la reingegnerizzazione dei software amministrativi rappresentano opportunità di system integration e application management. (3) L'obiettivo NATO al 2-3% del PIL implica un decennio di crescita strutturale della spesa, con forte componente IT e cyber. (4) NTT DATA può valorizzare le competenze in managed security services, cloud migration e AI applicata alla difesa. PUNTI DI INGRESSO: (1) Accordi Quadro CONSIP (es. SPC Cloud, Multibrand, ID2296 Compliance e Controllo) – la Difesa agisce spesso tramite questi strumenti: entrare come aggiudicatario di Accordi Quadro CONSIP è condizione abilitante. (2) Subappalto/RTI con player già accreditati (es. Leonardo, Telsy, Fastweb, Selex) per acquisire referenze nel settore classificato. (3) Percorso di qualificazione ACN per servizi cloud e cybersecurity – prerequisito normativo per lavorare con PA e Difesa. (4) Tavoli tecnici NATO Innovation Fund e programmi di R&S della Difesa come canale di relazione istituzionale. RISCHI: (1) Complessità procurement molto alta: gare spesso riservate, con capitolati classificati, procedure negoziate senza bando e requisiti di security clearance per il personale. (2) Lunghi cicli di gara e forte dipendenza da CONSIP come centrale di committenza. (3) Mercato presidiato da incumbent con nulla osta di sicurezza già consolidato (Leonardo, Elettronica, Telsy, Selex ES). (4) Rischio di ritardi o ridefinizione dei target PNRR Difesa. (5) La nuova Direzione Nazionale degli Armamenti potrebbe modificare le procedure di affidamento IT nel medio termine.",
+    "gare": [
+      {
+        "cig": "Z1A3883317",
+        "oggetto": "PNRR Cybersecurity WP7 - Prosecuzione sviluppo capacitivo Cyber Range e assistenza sistemistica",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2021-2023"
+      },
+      {
+        "cig": "ZE03B350A6",
+        "oggetto": "PNRR Cybersecurity WP3/WP4 - Servizi di supporto, studio e progettazione piattaforma digitale per protezione perimetrale e misure di sicurezza ICT della Difesa e FF.AA.",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2023-2024"
+      },
+      {
+        "cig": "Z0C3ABEC12",
+        "oggetto": "PNRR WP13 - Sviluppo software gestionale Centro di Valutazione della Difesa (supporto specialistico, avvio operativo, assistenza, manutenzione e formazione)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2023"
+      },
+      {
+        "cig": "Z2E3BFA0EC",
+        "oggetto": "PNRR Cybersecurity WP7 - Acquisizione soluzione Cybersecurity Awareness e Phishing Simulation per utenti della Difesa (Convenzione CONSIP ID2296 Lotto 1)",
+        "importo": "€ 2.598.750,00 (IVA esente)",
+        "aggiudicatario": "N/D (procedura CONSIP ID2296 Lotto 1 - Compliance e Controllo PA)",
+        "anno": "2023"
+      },
+      {
+        "cig": "B16C081A01",
+        "oggetto": "PNRR Cybersecurity WP6 - Acquisizione moduli funzionali integrativi alla piattaforma CyCOP (capacità pianificazione e condotta dominio cyber)",
+        "importo": "€ 1.087.459,25 (IVA esente)",
+        "aggiudicatario": "N/D (procedura negoziata, contratto n. 813 del 12.06.2024)",
+        "anno": "2024"
+      },
+      {
+        "cig": "B30651A105",
+        "oggetto": "PNRR Cybersecurity WP9 - Sicurezza componenti di gestione sistemi satellitari - Acquisizione modem TranSEC e gestione log",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2023-2024"
+      },
+      {
+        "cig": "B40CFDEC60",
+        "oggetto": "PNRR WP13 - Acquisizione fibra ottica spenta in Diritto d'Uso Irrevocabile (DUI) per Centro di Valutazione della Difesa",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2024"
+      },
+      {
+        "cig": "B7AC88D7C8",
+        "oggetto": "PNRR WP13 Lotto 1 - Realizzazione Business Continuity della piattaforma di monitoraggio e analisi del traffico dati",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2024-2025"
+      },
+      {
+        "cig": "B7AC88E89B",
+        "oggetto": "PNRR WP13 Lotto 2 - Realizzazione Business Continuity (componente complementare piattaforma monitoraggio traffico dati)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2024-2025"
+      },
+      {
+        "cig": "B137922E3D",
+        "oggetto": "PNRR Digitalizzazione Target 143 - Migrazione applicazioni non critiche open source (SCIPIO) T2 - Digitalizzazione gestione Nulla Osta di Segretezza (GeNOS)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D (Accordo Quadro Rep. n.344 del 29.02.2022, Atto di Adesione AQ344/0/13 del 19.07.2024)",
+        "anno": "2024"
+      },
+      {
+        "cig": "Z9B3B4FF1B",
+        "oggetto": "PNRR Cybersecurity - Migrazione infrastruttura utenti e FF.AA. da FUMD-NG a MFMD-NG (Migrazione utenti e servizi su nuova infrastruttura mono-dominio)",
+        "importo": "€ 1.259.910,00 (IVA esente)",
+        "aggiudicatario": "Fastweb S.p.A. (mandataria) + Consorzio Stabile NextHera S.c.r.l. (mandante) - tramite Accordo Quadro CONSIP",
+        "anno": "2023-2024"
+      },
+      {
+        "cig": "B57DC8293A",
+        "oggetto": "PNRR WP13 - Acquisizione materiali ulteriori per allestimento Centro di Valutazione della Difesa",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2024-2025"
+      }
+    ],
+    "n_gare": 12,
+    "status": "successo",
+    "updated_at": "2026-06-03T21:22:55.269746+00:00",
+    "delta": "Primo rilevamento"
+  },
+  "Forze Armate (Esercito/Marina/AM)": {
+    "name": "Forze Armate (Esercito/Marina/AM)",
+    "market": "Pubblico",
+    "complexity": "Alta",
+    "fatturato": "Non applicabile (ente pubblico non commerciale). Bilancio del Ministero della Difesa 2025: 31.295 milioni di euro (bilancio ordinario, Legge di Bilancio 2025). Bilancio Integrato in chiave NATO 2025: 35,5 miliardi di euro. Spesa militare diretta stimata da Mil€x per il 2025: circa 33 miliardi di euro. Ripartizione costi diretti del personale per Forza Armata (2025): Esercito 5,95 mld€, Aeronautica 2,87 mld€, Marina 2,3 mld€. Fonte: DPP 2025-2027, Legge di Bilancio 2025, Osservatorio Mil€x.",
+    "spesa_it_stimata": "Stima complessiva spesa IT/digitale delle Forze Armate 2025: circa 635-700 milioni di euro annui. Dettaglio programmato nel DPP 2025-2027: 300 milioni per 'digitalizzazione della Difesa e reti cyber'; 140 milioni per 'Data Collection & Cyber Package'; 165 milioni per 'Comando e Controllo multidominio'; 30 milioni per potenziamento Cyber Package. Fondi PNRR (M1C1-S.1.6.4 Digitalizzazione Ministero della Difesa, CUP D81B20001980006): 22,68 milioni nel 2024, 10,69 milioni nel 2025, 6,37 milioni nel 2026. Programma SatCom SICRAL 3 (PNRR+PNC): 60+60 milioni nel 2024, 59+25 milioni nel 2025, 31 milioni nel 2026. Ricerca tecnologica militare (PNRM): 87,16 milioni nel 2024, 81,84 milioni nel 2025, 77,79 milioni nel 2026.",
+    "fonte_stima": "Documento Programmatico Pluriennale (DPP) 2025-2027 del Ministero della Difesa (trasmesso al Parlamento ottobre 2025); Legge di Bilancio 2025 (L. n. 207/2024); Piano PNRR Misura M1C1-S.1.6.4 (OpenPNRR, difesa.it); Osservatorio Mil€x (metodologia parametrizzazione media su DPP storici); Dossier Camera dei Deputati DI0117; Analisi Difesa (analisidifesa.it); Euroborsa.it su DPP 2025-2027; Startinsight.eu; MilanoFinanza (ottobre 2025).",
+    "servizi_it_acquistati": "1) Cybersecurity e Cyber Defence: capacità offensive e difensive, poligono cyber UNAVOX, esercitazioni 'Cyber Eagle', partenariati con ACN e NCS. 2) Sistemi C4ISR (Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance): integrazione multidominio, Comando e Controllo multidominio (165 mln pianificati). 3) Infrastrutture digitali e cloud: migrazione applicazioni mission-critical verso S.C.I.P.I.O. (infrastruttura cloud sicura della Difesa), migrazione al PSN (Polo Strategico Nazionale). 4) Comunicazioni satellitari: programma SICRAL 3 (satelliti 3A e 3B). 5) Data Management: Data Collection & Cyber Package (140 mln). 6) Sistemi informativi gestionali: aggiornamento Data Center dell'Esercito (esigenza 209 mln, disponibili 63 mln), riprogettazione SIMOGE (sistema informativo gestionale). 7) Portali istituzionali e intranet. 8) Digitalizzazione documentale e certificati. 9) Simulazione e addestramento digitale: sistemi di simulazione nuova generazione (98,7 mln in 8 anni). 10) Intelligenza Artificiale (programma IA PA, robotica, deep tech via NATO Innovation Fund). 11) Spazio e sorveglianza satellitare.",
+    "piano_strategico_it": "1) DPP 2025-2027 (Documento Programmatico Pluriennale della Difesa): definisce la trasformazione digitale come priorità strategica. Le Forze Armate sono descritte come attori in un processo di 'digitalizzazione operativa' con sistemi C4ISR avanzati, cyber defence e integrazione multidominio (terrestre, navale, aereo, cibernetico, cognitivo, spaziale). 2) PNRR Misura M1C1-S.1.6.4 'Digitalizzazione del Ministero della Difesa' (CUP D81B20001980006): include migrazione S.C.I.P.I.O., digitalizzazione certificati e procedure, portali istituzionali. Target completati entro T4/2024. 3) Piano Nazionale della Ricerca Militare (PNRM): gestito dal V Reparto 'Innovazione Tecnologica' dello SGD/DNA, con accordi quadro con università ed enti di ricerca. 4) Programma di unificazione interforze: avviato nel 2024, prevede razionalizzazione di sistemi IT e comunicazione comuni (nel medio termine: sistemi informatici e comunicazione; Spazio e Cyber). 5) Dominio Cyber: la Difesa punta ad operare in modo autonomo con operazioni militari sia difensive che offensive, in sinergia con ACN e NCS. 6) Dominio Spaziale: disegno di legge per visione integrata Spazio-Difesa; programma SICRAL 3. 7) Adesione al programma europeo SAFE (29 luglio 2025), con obbligo di presentare piani di investimento alla Commissione UE entro il 30 novembre 2025.",
+    "trend_futuro": "1) Crescita strutturale del budget Difesa: da 29 miliardi nel 2024 a oltre 31 miliardi nel 2025 (+7,3%), con target NATO al 2% del PIL. Il DPP 2025-2027 prevede crescita dai 35 miliardi del 2025 ai 37 miliardi del 2027. Piano quindicennale da 130 miliardi di euro di commesse pubbliche entro il 2039. 2) Accelerazione degli investimenti in tecnologia e software: il baricentro si sposta da piattaforme fisiche a 'radar, sensori, sistemi di comando digitali, intelligenza artificiale'. 3) Investimenti cyber in forte espansione: 300 milioni per digitalizzazione e reti cyber, 140 milioni per Data Collection & Cyber Package, capacità offensive e difensive. 4) Integrazione multidominio (spazio, cyber, subacqueo): programmi SICRAL 3, capacità anti-drone, sorveglianza satellitare. 5) Convergenza PESCO/European Defence Fund: oltre 300 milioni per programmi europei di R&S. 6) Programma SAFE (EU): l'Italia dovrà presentare piani di investimento in difesa alla Commissione UE, ulteriore driver di spesa IT/tecnologica. 7) Unificazione interforze dei sistemi IT (medio termine), con progressiva centralizzazione e razionalizzazione dei servizi ICT comuni. 8) Incremento cybersecurity: il Rapporto Clusit 2024 indica che i settori governativo/militare rappresentano l'11% degli incidenti cyber in Italia, rendendo obbligatorio l'upgrade delle difese digitali. 9) Collaborazione pubblico-privato: il DPP enfatizza la sinergia con l'industria nazionale come fattore abilitante.",
+    "note_ntt_data": "OPPORTUNITÀ: (1) Il cluster Difesa di NTT DATA può intercettare la fase di massima espansione della spesa IT militare italiana, con un piano quindicennale da 130 miliardi e investimenti cyber/digitali già programmati nel DPP 2025-2027 per oltre 635 milioni annui. (2) Il programma di unificazione interforze dei sistemi ICT (avviato nel 2024) crea domanda di system integration e managed services a livello centralizzato: NTT DATA ha competenze specifiche in entrambi. (3) La migrazione S.C.I.P.I.O./PSN e la digitalizzazione PNRR rappresentano opportunità immediate su cloud sicuro e infrastrutture critiche. (4) Il dominio cyber (offensivo e difensivo), la C4ISR integration e i sistemi di comando multidominio sono aree in cui NTT DATA può proporsi come partner tecnologico qualificato. (5) Il programma di simulazione e addestramento digitale (98,7 mln in 8 anni solo per l'Esercito) è un segmento aperto a fornitori IT specializzati. (6) L'adesione italiana al programma SAFE UE aprirà nuovi bandi europei in cui NTT DATA, con presenza multinazionale, è avvantaggiata. PUNTI DI INGRESSO: (a) Consip (convenzioni quadro IT PA) come canale privilegiato per aggirare la frammentazione delle stazioni appaltanti; (b) Accordi quadro con SGD/DNA (Segretariato Generale della Difesa) tramite il V Reparto Innovazione Tecnologica; (c) Partenariati con Leonardo (prime contractor Difesa IT in Italia) per ruolo di sub-contractor o partner tecnologico; (d) Candidature ai bandi PESCO/EDF a livello europeo; (e) Collaborazioni con atenei (Politecnico Torino, Tor Vergata) per programmi formativi cyber certificati dalle FA. RISCHI: (1) Alta complessità procurement: le gare Difesa operano in regime speciale (D.Lgs. 208/2011), con norme di segretezza, qualificazioni di sicurezza (NOS/NATO SECRET) e iter autorizzativi lunghi che richiedono struttura dedicata. (2) Elevata concentrazione su Leonardo come incumbent tecnologico: competere o co-partecipare richiede strategia deliberata. (3) Frammentazione delle stazioni appaltanti (Esercito, Marina, Aeronautica, SMD, SGD operano separatamente), rendendo necessario un approccio multicanale. (4) Molti contratti IT strategici sono classificati o affidati mediante procedure negoziate/ristrette non pubbliche, limitando la visibilità sulle opportunità. (5) Rischio di variazioni di budget per riclassificazioni contabili (come avvenuto nel 2025 con l'inclusione di nuove voci nel computo NATO), che possono spostare le priorità di spesa. (6) Necessità di ottenere abilitazioni di sicurezza (security clearance) per il personale NTT DATA coinvolto.",
+    "gare": [
+      {
+        "cig": "N/D",
+        "oggetto": "Digitalizzazione del Ministero della Difesa - PNRR M1C1-S.1.6.4 (CUP D81B20001980006): migrazione S.C.I.P.I.O., digitalizzazione certificati e procedure, portali web e intranet",
+        "importo": "39,74 milioni di euro (2024-2026, fondi PNRR)",
+        "aggiudicatario": "N/D",
+        "anno": "2024-2026"
+      },
+      {
+        "cig": "N/D",
+        "oggetto": "Programma SatCom SICRAL 3 (satelliti 3A e 3B) - comunicazioni satellitari militari",
+        "importo": "295 milioni di euro circa (PNRR + PNC, 2024-2026)",
+        "aggiudicatario": "Telespazio / Leonardo (prime contractor storico SICRAL)",
+        "anno": "2024-2026"
+      },
+      {
+        "cig": "N/D",
+        "oggetto": "Aggiornamento/ammodernamento Data Center dell'Esercito (DPP 2023-2025)",
+        "importo": "63 milioni di euro disponibili su esigenza totale di 209 milioni in 9 anni",
+        "aggiudicatario": "N/D",
+        "anno": "2023-2031"
+      },
+      {
+        "cig": "N/D",
+        "oggetto": "Riprogettazione Sistema Informativo Gestionale SIMOGE (Esercito)",
+        "importo": "14,5 milioni disponibili su esigenza totale di 42 milioni",
+        "aggiudicatario": "N/D",
+        "anno": "2023-2025"
+      },
+      {
+        "cig": "N/D",
+        "oggetto": "Sistemi di simulazione di nuova generazione per l'addestramento (Esercito)",
+        "importo": "98,7 milioni in 8 anni (disponibili), esigenza totale 159 milioni",
+        "aggiudicatario": "N/D",
+        "anno": "2025-2032"
+      },
+      {
+        "cig": "N/D",
+        "oggetto": "Data Collection & Cyber Package (DPP 2025-2027)",
+        "importo": "140 milioni di euro",
+        "aggiudicatario": "N/D",
+        "anno": "2025-2027"
+      },
+      {
+        "cig": "N/D",
+        "oggetto": "Digitalizzazione della Difesa e reti cyber (DPP 2025-2027)",
+        "importo": "300 milioni di euro",
+        "aggiudicatario": "N/D",
+        "anno": "2025-2027"
+      },
+      {
+        "cig": "N/D",
+        "oggetto": "Comando e Controllo multidominio C4ISR (DPP 2025-2027)",
+        "importo": "165 milioni di euro",
+        "aggiudicatario": "N/D",
+        "anno": "2025-2027"
+      },
+      {
+        "cig": "N/D",
+        "oggetto": "Potenziamento Cyber Package (DPP 2025-2027)",
+        "importo": "30 milioni di euro",
+        "aggiudicatario": "N/D",
+        "anno": "2025-2027"
+      },
+      {
+        "cig": "N/D",
+        "oggetto": "Piano Nazionale della Ricerca Militare (PNRM) - Ricerca tecnologica e innovazione digitale",
+        "importo": "87,16 milioni (2024), 81,84 milioni (2025), 77,79 milioni (2026)",
+        "aggiudicatario": "N/D (affidamenti plurimi a università ed enti di ricerca)",
+        "anno": "2024-2026"
+      }
+    ],
+    "n_gare": 10,
+    "status": "successo",
+    "updated_at": "2026-06-03T21:22:55.269746+00:00",
+    "delta": "Primo rilevamento"
+  },
+  "Difesa Servizi": {
+    "name": "Difesa Servizi",
+    "market": "Pubblico",
+    "complexity": "Media",
+    "fatturato": "€ 81,7 milioni (valore della produzione, esercizio finanziario 2023, approvato dall'Assemblea dei Soci il 9 maggio 2024). Utile netto 2023: circa € 9,8 milioni. Valore della produzione 2022: € 75,9 milioni (+7,6% anno su anno). Dato da fonte ufficiale: comunicato stampa difesaservizi.it del 09/05/2024. Nota: il registro camerale riporta fatturato 2024 pari a € 79,57 milioni (fonte: ufficiocamerale.it), ma il dato consolidato ufficiale più recente con comunicazione pubblica rimane quello del bilancio 2023.",
+    "spesa_it_stimata": "Stima complessiva spesa IT annua di Difesa Servizi in qualità di centrale di committenza e soggetto acquirente: difficilmente scorporabile dal bilancio aggregato. Come proxy, si considerano: (a) budget PNRR allocato al Ministero della Difesa per la migrazione al PSN pari a € 29,5 milioni (fase 1), (b) gare PNRR Cybersecurity TELEDIFE con importi pluriennali nell'ordine di milioni di euro per singolo lotto, (c) la procedura PSN gestita da Difesa Servizi come centrale di committenza con valore di gara di € 723 milioni su PPP decennale. La spesa IT annua diretta di Difesa Servizi SpA come entità autonoma (3 dipendenti diretti) è stimabile in un range tra € 500K e € 2 milioni/anno per IT interno; la spesa IT gestita/intermediata come centrale di committenza supera i € 50 milioni/anno.",
+    "fonte_stima": "Stima derivata da: (1) difesa.it/pnrr/investimento-1-1 - budget PNRR Difesa PSN € 29,5M; (2) innovazione.gov.it - valore gara PSN € 723M su 10 anni (media ~€ 72M/anno); (3) difesa.it/pnrr/investimento-1-5 - PNRR Cybersecurity TELEDIFE (gare con CIG tracciati); (4) bilancio Difesa 2024 pubblicato da analisidifesa.it - Funzione Difesa € 20.848,6M di cui quota IT stimabile attorno al 3-5% per analogia con benchmark PA internazionali. Non esiste una voce 'spesa IT' separata nei documenti pubblici di Difesa Servizi SpA.",
+    "servizi_it_acquistati": "1. Cloud (IaaS/PaaS): migrazione al Polo Strategico Nazionale (PSN), infrastruttura cloud per dati critici e strategici, gestita tramite gara europea da Difesa Servizi come centrale di committenza. 2. Cybersecurity: acquisizione servizi CERT Difesa (gestione del rischio, processi di sicurezza), protezione perimetrale (WP3), misure di sicurezza ICT (WP4), SIEM - Security Information and Event Management (CIG Lotto 2: B7AC88E89B), Business Continuity piattaforma monitoraggio traffico dati (CIG Lotto 1: B7AC88D7C8), modem TranSEC e gestione log (CIG B30651A105). 3. Software gestionale: sviluppo software Centro di Valutazione della Difesa (CIG Z0C3ABEC12), manutenzione e supporto specialistico. 4. System Integration: convergenza interforze e multidominio dei servizi digitali, migrazione verso foresta mono-dominio di nuova generazione. 5. Formazione e Cyber Awareness: Cyber Range (poligono virtuale) presso Scuola Telecomunicazioni FF.AA. di Chiavari. 6. Gestione e valorizzazione asset immobiliari, energetici, culturali (settori non-IT ma rilevanti per system integration gestionale).",
+    "piano_strategico_it": "Piano strutturato su due livelli: (A) Livello Difesa Servizi come centrale di committenza: ha gestito la gara europea PSN (Polo Strategico Nazionale) per conto del Dipartimento per la Trasformazione Digitale, con base d'asta € 4,4 miliardi, aggiudicata a giugno 2022 al RTI TIM-Leonardo-CDP Equity-Sogei. Ruolo di stazione appaltante delegata per l'infrastruttura cloud nazionale della PA italiana. (B) Livello Ministero della Difesa (committente di Difesa Servizi): PNRR Misura M1C1-S.1.6.4 'Digitalizzazione del Ministero della Difesa' (CUP D81B20001980006); adesione al PSN con convergenza interforze e multidominio dei servizi digitali; piano TELEDIFE Cybersecurity su 13 Work Package (WP1-WP13) con finanziamenti PNRR per cybersecurity (investimento 1.5); Concetto Strategico del CSMD che indica Cyber, Space, Tactical Cloud, AI, JISR, Big Data, Edge Computing, Digital Collaboration come priorità 2024-2030.",
+    "trend_futuro": "1. Crescita budget Difesa: la Funzione Difesa passa a € 20.848,6 milioni nel 2024 (+6,6% su 2023), con investimenti pluriennali fino al 2038 (Fondo investimento pluriennale da 60,58 miliardi 2021-2038). 2. Completamento migrazione PSN: percorso pluriennale di migrazione servizi non mission-critical delle FF.AA. verso il PSN, con nuovi contratti di servizio attesi. 3. Cyber Defence: ulteriore potenziamento SOC, CERT, Cyber Range, piattaforme SIEM; obiettivo NATO Digital Transformation Vision. 4. AI e Big Data: esplicita priorità del CSMD per AI, exploitation Big Data, Edge-Quantum Computing nella Difesa. 5. Difesa Servizi come centrale di committenza: ruolo crescente nell'intermediazione di acquisti IT per la PA militare, con attivazione di nuovi accordi quadro. 6. Interoperabilità NATO: digitalizzazione in linea con NATO's Digital Transformation Vision, con requirement di interoperabilità internazionale. 7. Crescita fatturato: trend di crescita costante (+7,6% CAGR 2022-2023), con retrocessioni alle FF.AA. in aumento (€ 82M nel 2023 vs € 71M nel 2022).",
+    "note_ntt_data": "OPPORTUNITÀ: (1) Polo Strategico Nazionale - NTT DATA può posizionarsi come system integrator o fornitore di servizi cloud/managed services nella fase di migrazione delle entità della Difesa verso il PSN (contratto decennale attivo); (2) Cybersecurity - pipeline TELEDIFE con work package aperti su SIEM, SOC, cyber range, protezione perimetrale: NTT DATA Security ha competenze dirette spendibili; (3) AI e Data Analytics - la priorità esplicita del CSMD per AI e Big Data apre opportunità per soluzioni NTT DATA in analytics avanzata e intelligenza artificiale applicata alla Difesa; (4) System Integration interforze - la convergenza multidominio richiede system integrator di livello enterprise; NTT DATA ha track record globale in SI per Defence. PUNTI DI INGRESSO: (a) Difesa Servizi è centrale di committenza: un accordo di partnership o inserimento in ATI su gare da essa bandite è il canale privilegiato; (b) TELEDIFE (Reparto Tecnico della Difesa) per gare PNRR Cybersecurity ancora attive; (c) Consip per contratti framework IT (es. SPC Cloud, servizi applicativi) a cui le entità della Difesa aderiscono. RISCHI: (1) Alta sensibilità per la sicurezza nazionale: requisiti di clearance e certificazioni specifiche (es. NATO SECRET, TEMPEST) limitano i fornitori ammissibili; (2) Natura in-house di Difesa Servizi: agisce come centrale di committenza ma non come cliente IT diretto di grandi dimensioni; il cliente finale è il Ministero della Difesa e le FF.AA.; (3) Tempi lunghi di procurement: complessità media segnalata, ma i cicli effettivi nel settore Difesa possono superare i 24-36 mesi; (4) Concorrenza strutturata: Leonardo, Telespazio, MBDA, Fincantieri Sistemi Integrati, Thales Italia sono player incumbent con relazioni consolidate; (5) Vincoli normativi: d.lgs. 208/2011 (settore Difesa e Sicurezza) introduce deroghe al Codice Appalti ordinario, riducendo la trasparenza delle procedure.",
+    "gare": [
+      {
+        "cig": "ZE03B350A6",
+        "oggetto": "WP3 Protezione perimetrale e WP4 Misure di sicurezza ICT - Acquisizione servizi di supporto, studio e progettazione di piattaforma digitale per aumentare la protezione perimetrale e le misure di sicurezza delle strutture ICT della Difesa e delle FF.AA. (PNRR TELEDIFE Cybersecurity)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D (avviso di aggiudicazione pubblicato 08/03/2024)",
+        "anno": "2024"
+      },
+      {
+        "cig": "Z0C3ABEC12",
+        "oggetto": "WP13 Realizzazione del Centro di Valutazione della Difesa - Acquisizione sviluppo software gestionale con supporto specialistico, avvio operativo, assistenza, manutenzione e formazione del personale (PNRR TELEDIFE Cybersecurity)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D",
+        "anno": "2023"
+      },
+      {
+        "cig": "B30651A105",
+        "oggetto": "WP9 Sicurezza componenti di gestione dei sistemi satellitari - Acquisizione modem TranSEC e gestione dei log (PNRR TELEDIFE Cybersecurity)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D (aggiornamento pubblicato 19/12/2024)",
+        "anno": "2024"
+      },
+      {
+        "cig": "B7AC88D7C8",
+        "oggetto": "Lotto 1 - Realizzazione della Business Continuity della piattaforma di monitoraggio e analisi del traffico dati (SDAPA - Irrobustimento capacità cyber defence della Difesa)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D (avviso aggiudicazione pubblicato 08/01/2026)",
+        "anno": "2026"
+      },
+      {
+        "cig": "B7AC88E89B",
+        "oggetto": "Lotto 2 - Realizzazione della piattaforma SIEM (Security Information and Event Management) nell'ambito dell'irrobustimento capacità cyber defence della Difesa e integrazione dominio cyber nei sistemi C2 (SDAPA)",
+        "importo": "N/D",
+        "aggiudicatario": "N/D (avviso aggiudicazione pubblicato 08/01/2026)",
+        "anno": "2026"
+      },
+      {
+        "cig": "N/D (gara PSN)",
+        "oggetto": "Realizzazione e gestione del Polo Strategico Nazionale (PSN) - infrastruttura cloud per dati critici e strategici della PA italiana - procedura di partenariato pubblico-privato gestita da Difesa Servizi SpA come centrale di committenza",
+        "importo": "€ 4,4 miliardi (base d'asta progetto); € 723 milioni (valore investimento aggiudicatario PPP)",
+        "aggiudicatario": "RTI: TIM Enterprise, Leonardo, CDP Equity, Sogei (PSN SpA)",
+        "anno": "2022"
+      }
+    ],
+    "n_gare": 6,
+    "status": "successo",
+    "updated_at": "2026-06-03T21:22:55.269746+00:00",
+    "delta": "Primo rilevamento"
+  }
+}
